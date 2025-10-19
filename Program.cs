@@ -1,4 +1,7 @@
-﻿Console.WriteLine("-----------------------------------------");
+﻿
+
+
+Console.WriteLine("-----------------------------------------");
 Console.WriteLine("WOOOOOOOOOOWWWWWWWWWIEEEEEEEEEEEEEEEEEEEEEE");
 
 // wowie no way :O
@@ -80,9 +83,19 @@ months = new int[12];
 
 months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
+Console.WriteLine ("-----------------------------------------");
 
 
 
+GetColor()
+
+
+class Ball {
+    int bounce;
+    int size;
+    string color;
+
+}
 
 
 
